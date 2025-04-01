@@ -35,11 +35,3 @@ Este repositório contém um exemplo de movimentação de um sprite animado dent
 
 - O código principal se encontra no arquivo `main.py`, onde a janela Pygame é criada e configurada.
 - A movimentação do sprite é controlada pelas teclas de direção do teclado, e a lógica de contorno do botão de sair foi implementada para garantir que o sprite nunca o sobreponha.
-
-## Contribuições
-
-Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas funcionalidades. Para isso, basta fazer um fork deste repositório, realizar as alterações desejadas e enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
